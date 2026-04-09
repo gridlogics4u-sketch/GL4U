@@ -1,7 +1,7 @@
 {
     "plan1": {
         "amount": "Rs 2,250",
-        "upiLink": "upi://pay?pa=anilkumarmaurya2407@Okicici&pn=GRID%20LOGICS%204U&am=1250&cu=INR"
+        "upiLink": "upi://pay?pa=anilkumarmaurya2407@Okicici&pn=GRID%20LOGICS%204U&am=2250&cu=INR"
     },
     "plan2": {
         "amount": "Rs 2,500",
